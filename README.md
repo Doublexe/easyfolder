@@ -3,6 +3,6 @@ A folder manager helps to simplify the process of file saving and loading in exp
 
 # folder apis
 
-access and protection
-saving and loading
-visualization
+- access and protection  
+- saving and loading  
+- visualization  
